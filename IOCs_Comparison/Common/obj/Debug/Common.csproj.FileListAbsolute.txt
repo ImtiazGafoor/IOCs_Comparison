@@ -1,0 +1,12 @@
+C:\Users\gterc\Documents\Visual Studio 2017\Projects\IOCs_Comparison\Common\bin\Debug\Common.dll.config
+C:\Users\gterc\Documents\Visual Studio 2017\Projects\IOCs_Comparison\Common\bin\Debug\Common.dll
+C:\Users\gterc\Documents\Visual Studio 2017\Projects\IOCs_Comparison\Common\bin\Debug\Common.pdb
+C:\Users\gterc\Documents\Visual Studio 2017\Projects\IOCs_Comparison\Common\bin\Debug\EntityFramework.dll
+C:\Users\gterc\Documents\Visual Studio 2017\Projects\IOCs_Comparison\Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gterc\Documents\Visual Studio 2017\Projects\IOCs_Comparison\Common\bin\Debug\EntityFramework.xml
+C:\Users\gterc\Documents\Visual Studio 2017\Projects\IOCs_Comparison\Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gterc\Documents\Visual Studio 2017\Projects\IOCs_Comparison\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\gterc\Documents\Visual Studio 2017\Projects\IOCs_Comparison\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\gterc\Documents\Visual Studio 2017\Projects\IOCs_Comparison\Common\obj\Debug\Common.csproj.CopyComplete
+C:\Users\gterc\Documents\Visual Studio 2017\Projects\IOCs_Comparison\Common\obj\Debug\Common.dll
+C:\Users\gterc\Documents\Visual Studio 2017\Projects\IOCs_Comparison\Common\obj\Debug\Common.pdb
